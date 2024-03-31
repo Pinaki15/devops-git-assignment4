@@ -1,2 +1,2 @@
 commiting file master.txt
-
+adding line2
